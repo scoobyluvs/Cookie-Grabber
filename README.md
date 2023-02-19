@@ -46,3 +46,11 @@ https://discord.gg/stub
 https://hittas.net/scooby (usally has my updated tag if i get termed)
 
 
+## some other credits
+
+https://github.com/Fadi002/HyperBreak
+
+(best obf fr) 
+
+
+
