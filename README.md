@@ -39,7 +39,7 @@ Before anything u NEED Python 3.9.5
 
 ## Contact 
 
-scooby#8754
+scooby#0003
 
 https://discord.gg/stub
 
